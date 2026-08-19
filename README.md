@@ -25,11 +25,6 @@ watch A\* replan live, drag the speed slider, or hit Restart. Everything
 | Members | *Ethan, Dhairya, Gaurav* |
 | Track | Track 1 — Warehouse Logistics Agent (A\*) |
 | Repository | *(https://github.com/Ethan-Thomas-Mathew/AI-Hackathon)* |
-
-See **[CONTRIBUTIONS.md](CONTRIBUTIONS.md)** for exactly who built what,
-and **[scripts/GIT_WORKFLOW.md](scripts/GIT_WORKFLOW.md)** for ready-to-run
-git commands to get all 3 members' commits into the repo.
-
 ---
 
 ![Demo screenshot: forklift mid-route, a user-placed obstacle triggering a live A* replan, and the interactive control bar](assets/demo_screenshot.png)
