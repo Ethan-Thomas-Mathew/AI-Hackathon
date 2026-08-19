@@ -21,11 +21,10 @@ watch A\* replan live, drag the speed slider, or hit Restart. Everything
 
 | Field | Value |
 |---|---|
-| Course Code | **|
 | Group ID | *7* |
 | Members | *Ethan, Dhairya, Gaurav* |
 | Track | Track 1 — Warehouse Logistics Agent (A\*) |
-| Repository | *paste your GitHub URL here once pushed* |
+| Repository | *[paste your GitHub URL here once pushed](https://github.com/Ethan-Thomas-Mathew/AI-Hackathon)* |
 
 See **[CONTRIBUTIONS.md](CONTRIBUTIONS.md)** for exactly who built what,
 and **[scripts/GIT_WORKFLOW.md](scripts/GIT_WORKFLOW.md)** for ready-to-run
