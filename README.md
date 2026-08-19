@@ -21,9 +21,9 @@ watch A\* replan live, drag the speed slider, or hit Restart. Everything
 
 | Field | Value |
 |---|---|
-| Course Code | *fill in* |
-| Group ID | *fill in* |
-| Members | *Name 1, Name 2, Name 3* |
+| Course Code | **|
+| Group ID | *7* |
+| Members | *Ethan, Dhairya, Gaurav* |
 | Track | Track 1 — Warehouse Logistics Agent (A\*) |
 | Repository | *paste your GitHub URL here once pushed* |
 
